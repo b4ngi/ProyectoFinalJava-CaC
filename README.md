@@ -6,6 +6,13 @@ Benetucci Ignacio
 DNI: 43110500
 Comision: JAVA 22541
 
+Server: GlassFishServer
+Java EE Version: Jakarta EE 9 Web
+Java Plataform: JDK 19
+Compile-time Libraries: mysql-connector-java-5.1.49.jar
+
+Documento con capturas de las pruebas realizadas a la aplicación: https://drive.google.com/file/d/1AWLJreKfnpgPoKn86-wXdPzSoeNgpw9U/view?usp=sharing
+
 	Se cumple con las consignas minimas solicitadas
 		-> Comunicacion front end - back end ingresando con un usuario previamente registrado en la base de datos
 
